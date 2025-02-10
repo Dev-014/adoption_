@@ -1,0 +1,2 @@
+/Users/deepanshu/Desktop/Organized/Studies/pet_adoption/android/app/.cxx/RelWithDebInfo/594t6r6e/x86_64/CMakeFiles/edit_cache.dir
+/Users/deepanshu/Desktop/Organized/Studies/pet_adoption/android/app/.cxx/RelWithDebInfo/594t6r6e/x86_64/CMakeFiles/rebuild_cache.dir
