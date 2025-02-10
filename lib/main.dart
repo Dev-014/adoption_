@@ -11,7 +11,6 @@ void main() async {
   ghpages.publish('build/web', {});
   WidgetsFlutterBinding.ensureInitialized();
   await LocalStorage.init();
-
   runApp(
     MultiProvider(
       providers: [
